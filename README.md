@@ -87,7 +87,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]([Dashboard Preview.png](https://github.com/Nofa-Alsharif/Sales-Performance-Dashboard/commit/a7d22ff0c69ad74a8d35e42a89378896b26fefb9#diff-c1efe1b9643f91fedbfb37989bbb10957135b4a39f896d27b320a3c22bfb83ed))
+![Dashboard Preview](Dashboard%20Preview.png)
 
 
 
