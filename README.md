@@ -87,7 +87,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 
 ## 📸 Dashboard Preview
 
-*(Insert dashboard screenshot here)*
+![Dashboard Preview](Dashboard Preview.png)
 
 ---
 
