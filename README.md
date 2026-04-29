@@ -5,7 +5,7 @@
 This project is an interactive **Sales Performance Dashboard** built using Power BI, based on the Superstore dataset.
 It provides a high-level overview of sales performance, profitability, customer activity, and regional distribution.
 
----
+
 
 ## 🎯 Objectives
 
@@ -14,7 +14,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 * Analyze sales distribution across regions and categories
 * Understand customer segments and shipping preferences
 
----
+
 
 ## 📊 Dashboard Features
 
@@ -25,7 +25,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 * **Total Orders:** 5009
 * **Total Customers:** 0.79K
 
----
+
 
 ### 🔹 Sales Analysis
 
@@ -47,7 +47,7 @@ It provides a high-level overview of sales performance, profitability, customer 
   * Central
   * South
 
----
+
 
 ### 🔹 Customer & Distribution Insights
 
@@ -66,7 +66,7 @@ It provides a high-level overview of sales performance, profitability, customer 
   * First Class
   * Same Day
 
----
+
 
 ## 🧠 Key Insights
 
@@ -75,7 +75,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 * The **Consumer segment** contributes the largest share of sales
 * **Standard Class shipping** is the most frequently used option
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -89,7 +89,7 @@ It provides a high-level overview of sales performance, profitability, customer 
 
 ![Dashboard Preview](Dashboard Preview.png)
 
----
+
 
 ## 🚀 How to Use
 
